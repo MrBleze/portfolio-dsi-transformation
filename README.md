@@ -1,4 +1,5 @@
-# 🏭 Pilotage de la Transformation Digitale — Secteur Énergie/Industrie ![Dashboard DSI](screenshots/dashboard-dsi-transformation.png)
+# 🏭 Pilotage de la Transformation Digitale — Secteur Énergie/Industrie
+![Dashboard DSI](screenshots/dashboard-dsi-transformation.png)
 
 > **Portfolio Project** | Business Data Analyst Freelance  
 > Stack : SQL · Power BI · Excel  
