@@ -128,12 +128,11 @@ sqlite3 transformation_digitale.db < sql/03_analyses.sql
 
 ## 👤 Auteur
 
-**[Ton Prénom Nom]**  
+**Bleze TCHALLA**  
 Business Data Analyst Freelance  
-Spécialité : Pilotage de performance · KPIs · Power BI · SQL  
-Références : TotalEnergies · ATR
+Spécialité : Pilotage de performance · KPIs · Power BI · SQL 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://linkedin.com/in/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://linkedin.com/in/bleze-tchalla)
 
 ---
 
